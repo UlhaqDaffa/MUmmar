@@ -10,7 +10,8 @@ html {
 
 .meme img {
     border: 3px solid white;
-    margin-top: 180px;
+    margin-top: 100px;
+    width: 40%;
 }
 
 .meme h1 {
